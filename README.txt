@@ -1,1 +1,1 @@
-It´s a basic game of memory
+It´s a basic memory game
